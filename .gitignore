@@ -15,3 +15,5 @@ dirtyfrag-lkm/*.mod.c
 dirtyfrag-lkm/*.lto.o
 dirtyfrag-lkm/modules.order
 dirtyfrag-lkm/Module.symvers
+
+.cache/
